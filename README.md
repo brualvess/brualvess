@@ -1,11 +1,11 @@
-### Oii, eu sou a Bruna oliveira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000080&lines=Seja+bem-vindo+ao+meu+perfil+&#x1F481">
+  <img src="https://readme-typing-svg.herokuapp.com?color=000080&lines=Oii,+eu+sou+a+Bruna+de+Oliveira;Seja+bem-vindo+ao+meu+perfil+&#x1F481">
 </p>
 
 <div align="center">
   <a href="https://github.com/brualvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brualvess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brualvess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brualvess&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
 </div>
 
