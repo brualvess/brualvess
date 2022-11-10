@@ -28,6 +28,13 @@
 </div>
 
 ##
+#### Estudando :
+  <div> 
+     <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    
+  </div>
+  
+##
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bruoliveiraalves)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" width="3.5%"/>](mailto:bruoliveira.alvs@gmail.com)  &nbsp;
