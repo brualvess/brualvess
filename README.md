@@ -7,7 +7,7 @@
   <div dsplay="inline-block">
   
  <h1 align="left">Bruna Oliveira</h1>
-     <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
+     <a href="https://www.linkedin.com/in/bruoliveiraalves/">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
   
