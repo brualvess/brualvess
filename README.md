@@ -19,7 +19,7 @@
 </br>
 
 ## Hello, Devs!!
-Tenho 20 anos, moro em Brasília e sou apaixonada por cachorros! Sou engenheira de software, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+Tenho 21 anos e moro em Brasília. Sou engenheira de software, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
 
 <p align="center">
   <img src="https://media.tenor.com/Os38-K7VHL4AAAAd/shibainu-typing.gif" width="150">
